@@ -1,6 +1,6 @@
 ## Hi there, I'm Patrick Miller 👋
 
-##
+####
 CEO & Founder of Miller | Digital Solutions - millerlab.io 
 Python-Programmierer - Student in Ausbildung
 ---
