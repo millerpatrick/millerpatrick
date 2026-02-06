@@ -1,12 +1,11 @@
 # Hi there, I'm Patrick Miller 👋
 
 ### CEO & Founder of Miller | Digital Solutions - millerlab.io 
-**Staatlich geprüfter Python-Programmierer in Ausbildung 🐍**
-
+Python-Programmierer - Student in Ausbildung
 ---
 
 ## 🚀 About Me
-Ich verbinde kreative Visionen mit technischer Präzision. Als Gründer von **MillerLab** entwickle ich High-End Lösungen im Bereich Python Engineering und Systemarchitektur. Mein Ziel ist es, komplexe Prozesse durch sauberen, effizienten Code zu automatisieren.
+Ich verbinde kreative Visionen mit technischer Präzision. Als Gründer von **millerlap.io** entwickle ich High-End Lösungen im Bereich Python Engineering und Systemarchitektur. Mein Ziel ist es, komplexe Prozesse durch sauberen, effizienten Code zu automatisieren.
 
 - 🎓 **Current Focus:** Vertiefung meiner Expertise in Python (Staatliche Zertifizierung).
 - 🛠️ **Building:** Skalierbare Backends, Automatisierungstools und intelligente Systeme.
