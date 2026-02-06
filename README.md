@@ -1,61 +1,18 @@
-<div align="center">
+# Project Title
 
-# 👋 Hi, ich bin Patrick Miller
+## About
+This project is aimed at providing a robust application based on FastAPI.
 
-### CEO & Founder @ [Miller | Digital Solutions](https://www.millerlab.io)
+## Tech Stack
+- ![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat-square)
+- ![FastAPI](https://img.shields.io/badge/FastAPI-0.68.1-blue?style=flat-square)
+- ![Docker](https://img.shields.io/badge/Docker-20.10.7-blue?style=flat-square)
+- ![Git](https://img.shields.io/badge/Git-2.31.1-orange?style=flat-square)
+- ![macOS](https://img.shields.io/badge/macos-11.2.3-9B5BA0?style=flat-square)
+- ![iOS](https://img.shields.io/badge/iOS-14.0-red?style=flat-square)
 
-*Python Engineer • System Architect • Student*
+## Projects
+- Project A
+- Project B
 
-<br>
-
-[![Website](https://img.shields.io/badge/🌐_millerlab.io-0A66C2?style=flat-square)](https://www.millerlab.io)
-[![Email](https://img.shields.io/badge/📧_patrick@millerlab.io-EA4335?style=flat-square)](mailto:patrick@millerlab.io)
-
-</div>
-
----
-
-## 🚀 Über mich
-
-Ich verbinde **kreative Visionen** mit **technischer Präzision**. Als Gründer von **millerlab.io** entwickle ich High-End Lösungen im Bereich Python Engineering und Systemarchitektur. Mein Ziel: Komplexe Prozesse durch sauberen, effizienten Code automatisieren.
-
-```yaml
-Focus: Python Engineering (Staatliche Zertifizierung)
-Building: Skalierbare Backends & Intelligente Automatisierung
-Company: Miller | Digital Solutions
-```
-
-<br>
-
-## 💻 Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS"/>
-  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white" alt="iOS"/>
-</p>
-
-<br>
-
-## 🎯 Aktuelle Projekte
-
-- 🔧 **Backend-Architekturen** für Enterprise-Anwendungen
-- 🤖 **Automatisierungstools** zur Prozessoptimierung
-- 📚 **Open Source Contributions** in der Python-Community
-
-<br>
-
----
-
-<div align="center">
-
-### *"Engineering is not just about code; it's about logic and systems."*
-
-<br>
-
-**Let's build something great together** 🚀
-
-</div>
+> "The journey of a thousand miles begins with one step."
