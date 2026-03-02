@@ -2,7 +2,7 @@
 
 # 👋 Hi, ich bin Patrick Miller
 
-### CEO & Founder @ [Miller | Digital Solutions](https://www.millerlab.io)
+### CEO & Founder @ [MILLERLAB](https://www.millerlab.io)
 
 *Python Engineer • System Architect • Student*
 
