@@ -22,7 +22,7 @@ Ich verbinde **kreative Visionen** mit **technischer Präzision**. Als Gründer 
 ```yaml
 Focus: Python Engineering (Staatliche Zertifizierung)
 Building: Skalierbare Backends & Intelligente Automatisierung
-Company: Miller | Digital Solutions
+Company: MILLERLAB
 ```
 
 <br>
